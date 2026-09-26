@@ -1,4 +1,4 @@
-﻿# Solly Social — Real-Time Social Media Analytics
+﻿# Real-Time Social Media Analytics
 
 Solly Social is a Vue 3 + TypeScript real-time analytics dashboard for monitoring live social media performance across Instagram, TikTok, Twitter/X, and YouTube. The product direction is a luxury editorial command center: deep burgundy surfaces, gold highlights, subtle stars, and high-density live analytics.
 
